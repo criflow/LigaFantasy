@@ -1,1 +1,7 @@
+package Basketball;
 
+public class Partido {
+	int fecha;
+	
+	
+}
