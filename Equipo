@@ -1,1 +1,9 @@
-hhg
+package Basketball;
+
+public class Equipo {
+	int partgan;
+	int partper;
+	String Nombre;
+	
+	
+}
